@@ -1,0 +1,12 @@
+<StackLayout width="280">
+    <TextField [(ngmodel)]="oneWay" ></TextField>
+
+    <button text="ค้นหา" (tap)="add()" width="90"></button>
+
+    <StackLayout *ngFor="let trafix of trafixs">
+        <label [text]="trafix.NAMET" ></label>
+
+
+
+    </StackLayout>
+</StackLayout>

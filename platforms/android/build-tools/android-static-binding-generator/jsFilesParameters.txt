@@ -71,6 +71,9 @@ C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\mai
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-checkbox\checkbox-common.js
+C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-checkbox\checkbox.js
+C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-checkbox\angular\index.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
@@ -226,3 +229,4 @@ C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\mai
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\Users\Admin\Desktop\nativescript\newTest\s10100\platforms\android\app\src\main\assets\app\todoList\todoLists.component.js

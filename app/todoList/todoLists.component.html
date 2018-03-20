@@ -1,5 +1,31 @@
+<!--
 <StackLayout width="280">
     <TextField [(ngmodel)]="oneWay" ></TextField>
 
     <button text="ค้นหา" (tap)="add()" width="90"></button>
+
+    <StackLayout *ngFor="let trafix of trafixs">
+        <label [text]="trafix.NAMET" ></label>
+    </StackLayout>
+
+    <ListView [items]="trafixs">
+        <ng-template>
+
+        </ng-template>
+    </ListView>
+</StackLayout>
+-->
+<StackLayout width="280">
+        <TextField [(ngmodel)]="oneWay" ></TextField>
+    
+        <button text="ค้นหา" (tap)="add(oneWay)" width="90"></button>
+    
+
+<ListView [items]="trafixs" (itemTap)="onItemTap(trafixs)">
+    <ng-template let-item="item">
+        <StackLayout>
+            <Label [text]="item.NAMET" ></Label>
+        </StackLayout>
+    </ng-template>
+</ListView>
 </StackLayout>
